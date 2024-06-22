@@ -1,1 +1,1 @@
-# GRUmodels
+# GRU Models
